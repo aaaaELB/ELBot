@@ -1,4 +1,4 @@
 # Bot p/ discord
 
 bot de teste usado no discord
-obrigado
+as vezes esquecido mas fica salvo aqui
